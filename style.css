@@ -505,7 +505,6 @@ footer {
   margin: 40px 0 40px 0;
   width: 100%;
 }
-
 ul {
   display: flex;
   list-style: none;
@@ -518,7 +517,7 @@ li {
 
 .case-card {
   background-color: #ffffff;
-  min-width: 400px;
+  min-height: 400px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
